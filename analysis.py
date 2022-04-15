@@ -36,8 +36,9 @@ plots.sepal_width_hist(iris_df['Sepal width'])
 plots.petal_length_hist(iris_df['Petal length'])
 plots.petal_width_hist(iris_df['Petal width'])
 
-# Creating the Scatter plots using Matplotlib. Add https://stackoverflow.com/questions/17411940/matplotlib-scatter-plot-legend , https://realpython.com/visualizing-python-plt-scatter/
-# Still need to check why the style is not getting applied to the plot
+# ### Importing the plots functions from the plots module created, these function will create a histogram plot. These function take one argument which is Database name and column name
+### following the format database['column'] in this case the database is iris_df.
+# References: https://stackoverflow.com/questions/17411940/matplotlib-scatter-plot-legend , https://realpython.com/visualizing-python-plt-scatter/
 
 
 
