@@ -21,4 +21,5 @@ The number of bins for the histogram plot was set to nine and the color edge for
 
 
 
+![Sepal Sctter](Sepal_sizes_scatter.png)
 ![Iris Flowers](https://www.embedded-robotics.com/wp-content/uploads/2022/01/Iris-Dataset-Classification.png)
