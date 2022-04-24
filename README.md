@@ -21,6 +21,4 @@ The number of bins for the histogram plot was set to nine and the color edge for
 
 
 
-![Iris Setosa](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.plant-world-seeds.com%2Fstore%2Fview_seed_item%2F6010&psig=AOvVaw1OC8i7rQk0_sCaSyPa0P4c&ust=1650892562942000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNDDip_krPcCFQAAAAAdAAAAABAD)
-![Iris Virginica](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fs.fed.us%2Fwildflowers%2Fbeauty%2Firis%2FBlue_Flag%2Firis_virginica.shtml&psig=AOvVaw16NtNIGyxmfRV_jReyEFba&ust=1650892606355000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJiPuq7krPcCFQAAAAAdAAAAABAD)
-![Iris Versicolor](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.etsy.com%2Fie%2Flisting%2F492772424%2Firis-versicolor-blue-flag-dagger-flower&psig=AOvVaw1J10Ml9cHwPGgJbrUqmBeG&ust=1650892641097000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKiAo8DkrPcCFQAAAAAdAAAAABAD)
+![Iris Flowers](https://www.embedded-robotics.com/wp-content/uploads/2022/01/Iris-Dataset-Classification.png)
