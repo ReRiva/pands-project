@@ -18,8 +18,14 @@ After that there is a. clf() function from matplotib.plyplot for clearing the fi
 
 The number of bins for the histogram plot was set to nine and the color edge for the bins to black to make it easier to see each bin. After that the title, x and y labels were set, a mean line was created and stylised using. axvline to add a little bit more of information to the plot and finally the plot was saved as a PNG.
 
+For the Scatter plots the data was divided by type of flower and was ploted on one plot per pair of attribute.  Each type of Iris was given a different color in the plot and legends were add to identify them. By looking at the scatter plot it becomes easier to identify the differences between the flowers. For example, Iris Setosa is the one with the smaller petal sizes, both length and width, while Iris Virginica has the biggest petal size of the three types.
+Regarding sepal sizes, as it can be seem in the Scatter Septal plot the widest sizes are of often seen in the Iris Setosa while the lengthiest ones are seen in the Iris Virginica. For both petal and sepal sizes the Iris Versicolor seems to be the middle one regarding sizes.
+
+Below are the scatter plots and pictures of the flowers so we can see the plots translated to real life examples:
 
 
 
-![Sepal Sctter](Sepal_sizes_scatter.png)
+
+![Sepal Scatter](Sepal_sizes_scatter.png)
+![Petal Scatter](Petal_sizes_scatter.png)
 ![Iris Flowers](https://www.embedded-robotics.com/wp-content/uploads/2022/01/Iris-Dataset-Classification.png)
