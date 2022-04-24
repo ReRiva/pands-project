@@ -15,7 +15,7 @@ list_of_columns = ["Sepal length", "Sepal width", "Petal length", "Petal width",
 iris_df.columns = list_of_columns
 
 
-# Using a lambda function to apply a formating to every item in the summary of the data frame and setting it to 3 decimals. Reference week 6 and (https://stackoverflow.com/questions/55394854/how-to-change-the-format-of-describe-output)
+# Using a lambda function to apply a formating to every item in the summary of the data frame and setting it to 3 decimals. Reference week 6 ,(https://stackoverflow.com/questions/55394854/how-to-change-the-format-of-describe-output) and  (https://www.w3schools.com/python/python_lambda.asp)
 iris_df.describe().applymap(lambda x: f"{x:0.3f}").to_csv("Summary_of_varibles.txt ", header =True, sep= "\t")
 
 
@@ -36,8 +36,7 @@ plots.sepal_width_hist(iris_df['Sepal width'])
 plots.petal_length_hist(iris_df['Petal length'])
 plots.petal_width_hist(iris_df['Petal width'])
 
-# ### Importing the plots functions from the plots module created, these function will create a histogram plot. These function take one argument which is Database name and column name
-### following the format database['column'] in this case the database is iris_df.
+# ### Importing the plots functions from the plots module created, these function will create a Scatter plot using the data filtered by class of flower.
 # References: https://stackoverflow.com/questions/17411940/matplotlib-scatter-plot-legend , https://realpython.com/visualizing-python-plt-scatter/
 
 

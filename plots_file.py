@@ -2,6 +2,9 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
+import varname as vn
+
+
 
 # Code for ploting the histogram and saving it as png.  References https://matplotlib.org/3.5.0/api/_as_gen/matplotlib.pyplot.hist.html https://www.youtube.com/watch?v=XDv6T4a0RNc&t=246s, https://stackoverflow.com/questions/16180946/drawing-average-line-in-histogram-matplotlib
 # https://stackoverflow.com/questions/8213522/when-to-use-cla-clf-or-close-for-clearing-a-plot-in-matplotlib. 
@@ -63,9 +66,7 @@ def petal_width_hist(database):
         plt.legend(fontsize = "small")
         plt.savefig("Petal_width_histogram.png")
     return
-
-
-
+ 
 
 ##### Scatter plot code - Creating the Scatter plots using Matplotlib. Add https://stackoverflow.com/questions/17411940/matplotlib-scatter-plot-legend , https://realpython.com/visualizing-python-plt-scatter/
 
